@@ -5,7 +5,7 @@ let pauseAnimation = false;
 
 const colors = {
   r: "#ff0a0a", // red
-  b: "#0ae2ff", // blue
+  b: "#3100ff", // blue
   g: "#0aff0a", // green
   y: "#ffff0a", // yellow
   p: "#ff0ac6", // pink
